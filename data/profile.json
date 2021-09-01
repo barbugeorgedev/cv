@@ -3,7 +3,8 @@
     "phone": " +40 0727 97 12 15",
     "email": "george@barbu.cc",
     "website": "https://george.barbu.cc",
-    "location": "Malaga, Spain"
+    "location": "Malaga, Spain",
+    "homephone": "Contact Details"
   },
   "skills": [
     {
@@ -288,7 +289,7 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "George Barbu",
+  "fullname": "George Barbu ",
   "sidebar": [],
   "slogan": "My objective is “performance”"
 }
