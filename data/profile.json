@@ -267,12 +267,12 @@
   ],
   "social": [
     {
-      "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barbugeorge"
-    },
-    {
       "service": "github",
       "url": "https://github.com/barbugeorgedev"
+    },
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/barbugeorge"
     },
     {
       "service": "facebook",
@@ -289,5 +289,6 @@
     }
   ],
   "fullname": "George Barbu",
-  "sidebar": []
+  "sidebar": [],
+  "slogan": "My objective is “performance”"
 }
